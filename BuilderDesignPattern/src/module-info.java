@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kirep
+ *
+ */
+module BuilderDesignPattern {
+}
